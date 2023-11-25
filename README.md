@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin-wook-lee-96&theme=synthwave_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin-wook-lee-96&theme=synthwave&show_icons=true)
 <!--
 **jin-wook-lee-96/jin-wook-lee-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
